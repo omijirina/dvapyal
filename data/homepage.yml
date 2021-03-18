@@ -1,7 +1,7 @@
 ############################ banner ##########################
 banner:
   enable : true
-  title : "Crema hidratante de azuleno con colágeno y elastina para pieles normales"
+  title : "Crema de Día Antiedad"
   content : "Un excelente humectante para la piel normal es la Crema Hidratante Elastin Collagen Azulene de Christina"
   image : "images/banner.png"
   # button
@@ -18,7 +18,7 @@ banner:
 about:
   enable : true
   title : "About Our Product"
-  content : "Al poseer una textura delicada, la crema se extiende fácilmente sobre la superficie de la piel y se absorbe rápidamente. La fórmula de la crema está enriquecida con colágeno y elastina, lo que contribuye a la preservación de la juventud, firmeza y elasticidad de la piel. Las vitaminas A y E en la fórmula tienen un efecto protector, aumentan la inmunidad y promueven la renovación activa de las células epidérmicas."
+  content : "La piel sedosa, tonificada y suave es un resultado fácil de lograr con la crema de cuidado diario Slow Age SPF 30 de la reconocida marca francesa Vichy. Con cada aplicación, el producto cosmético transforma la piel, perfeccionándola y dándole un brillo saludable."
   image : "images/about.png"
 
 
@@ -84,19 +84,12 @@ products:
 testimonial:
   enable : true
   title : "What People Are Saying <br> About Our Product"
-  testimonialItem:
-    # testimonial item loop
-    - name : "Angela Perara"
-      image : "images/clients/client-1.jpg" # size 100px*100px
-      designation : "CEO, Dialogue Broad Band"
-      content : "Muy ligero, ingrávido. Lo usaré en verano, para el invierno hay muy poca humedad. Se absorbe rápidamente, no deja una película 5a en el rostro."
-      rating : "five" # rating star, one to five
-      
+  testimonialItem:    
     # testimonial item loop
     - name : "Riya Ventilo"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "¡Satisfecho con la crema! He estado usando esta serie durante mucho tiempo. La crema es ligera, no deja brillos en el rostro con mi piel mixta. Deja una sensación de ligereza."
+      content : "La crema es fría, después de la primera semana de aplicación, el resultado es visible: la piel es suave, elástica, sedosa, la tez es uniforme y elimina los signos de fatiga. La crema fue perfecta para mí."
       rating : "three" # rating star, one to five
       
     # testimonial item loop
@@ -110,5 +103,5 @@ testimonial:
     - name : "Riya Ventila"
       image : "images/clients/client-2.jpg" # size 100px*100px
       designation : "CEO, Dialogue Broad Band"
-      content : "Un buen humectante, pero no es suficiente para mi piel seca (((. Lo uso con suero hialurónico, luego el efecto de dos productos y la piel simplemente brilla, nutre e hidrata"
+      content : "No lo uso durante mucho tiempo. Hasta ahora tan bueno. Hidrata bien."
       rating : "four" # rating star, one to five
